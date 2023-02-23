@@ -1,0 +1,100 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+.outer-container                             /* Outer Most Container having white image background*/
+{
+    margin: 3em 3em 0em 8em;
+    width: 80%;
+}
+.inner-container                                /* Inner Container for Entering SignUp Details */
+{
+    border-radius: 10%;
+    color: #03C988;
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 500px;
+    width: 400px;
+    background: #00000059;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+.input                                         /*Input area for taking inputs */
+{
+    color: black;
+    margin: 6px;
+    padding: 3px;
+    height: 1.8rem;
+    width: 20em;
+    background:#51b97f6e;
+    border-radius: 10px;
+    border: none;
+} 
+.signUp-button                                /* SignUp button to Submit the entered details*/ 
+{
+    background-color:seagreen;
+    border: none;
+    border-radius: 10px;
+    width: 8em;
+    margin: 10px;
+    padding: 3px;
+    height: 1.8rem;
+}
+.signUp-button:hover                         /* Applying Hover property to signUp Button */
+{
+    cursor: pointer;
+    background-color: #03C988;
+}
+.btn-accounts                    /* Button for registering through already existing accounts like google, facebook etc. */
+{
+    overflow: hidden;
+    object-fit: cover;
+    background: transparent;
+    height: 3rem;
+    width: 3rem;
+    border: none;
+    border-radius: 50%;
+}
+.btn-accounts img               /* Icons for registering buttons */
+{
+    width: 100%;
+    opacity: 0.7;
+}
+.btn-accounts img:hover
+{
+    cursor: pointer;
+    opacity: 1;
+}
+.description-container-hor        /*  Horizontal division having rectangular border */
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: seagreen; */
+    color: #00000066;
+    border: 12px solid #03C988;
+    border-style:ridge;
+    position: absolute;
+    top: 28%;
+    left: 12%;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+.description-container-hor p        /*  Paragraph inside Horizontal division */
+{
+    margin: 4px;
+    padding: 15px;
+}
+.description-container-ver           /* Vertical divison for styling */
+{
+    position: absolute;
+    top: 7%;
+    height: 597px;
+    width: 250px;
+    background: #03c98847;
+}
