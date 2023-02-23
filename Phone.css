@@ -1,0 +1,427 @@
+@media (min-width:1050px) and (max-width:1229px) {
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        top: 15%;
+        left: 55%;
+        height: 500px;
+        width: 350px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* color: seagreen; */
+        color: #00000066;
+        border: 12px solid #03C988;
+        border-style: ridge;
+        position: absolute;
+        top: 28%;
+        left: 14%;
+        height: 300px;
+        width: 400px;
+        text-align: center;
+        font-size: 1.7rem;
+        text-transform: uppercase;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        position: absolute;
+        top: 9%;
+        height: 597px;
+        width: 250px;
+        background: #03c98847;
+    }
+}
+
+@media (min-width:900px) and (max-width:1050px) {
+ 
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        top: 15%;
+        left: 55%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* color: seagreen; */
+        color: #00000066;
+        border: 12px solid #03C988;
+        border-style: ridge;
+        position: absolute;
+        top: 23%;
+        left: 19%;
+        height: 400px;
+        width: 300px;
+        text-align: center;
+        font-size: 1.7rem;
+        text-transform: uppercase;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        position: absolute;
+        top: 1.6%;
+        height: 597px;
+        width: 250px;
+        background: #03c98847;
+    }
+}
+
+@media (min-width:740px) and (max-width:900px) {
+  
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        top: 15%;
+        left: 55%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* color: seagreen; */
+        color: #00000066;
+        border: none;
+        position: absolute;
+        top: 23%;
+        left: 13.8%;
+        height: 400px;
+        width: 300px;
+        text-align: center;
+        font-size: 1.7rem;
+        text-transform: uppercase;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        position: absolute;
+        top: 1.5%;
+        height: 597px;
+        width: 250px;
+        background: #03c98847;
+    }
+}
+
+@media (min-width:702px) and (max-width:740px) {
+  
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        top: 15%;
+        left: 55%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* color: seagreen; */
+        color: #00000066;
+        border: none;
+        position: absolute;
+        top: 23%;
+        left: 16%;
+        height: 400px;
+        width: 300px;
+        text-align: center;
+        font-size: 1.7rem;
+        text-transform: uppercase;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        position: absolute;
+        top: 1.5%;
+        height: 597px;
+        width: 250px;
+        background: #03c98847;
+    }
+}
+
+@media (min-width:525px) and (max-width:702px) {
+  
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        color: #03C988;
+        position: absolute;
+        border: 8px solid #03C988;
+        border-style: inset;
+        top: 15%;
+        left: 20%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: none;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        display: none;
+    }
+}
+
+@media (min-width:400px) and (max-width:525px) {
+  
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        border: 8px solid #03C988;
+        border-style: inset;
+        top: 15%;
+        left: 17%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: none;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        display: none;
+    }
+}
+@media (min-width:416px) and (max-width:465px) {
+
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        border: 8px solid #03C988;
+        border-style: inset;
+        top: 15%;
+        left: 12%;
+        height: 500px;
+        width: 300px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .input
+
+    /*Input area for taking inputs */
+        {
+        color: black;
+        margin: 6px;
+        padding: 3px;
+        height: 1.8rem;
+        width: 15em;
+        background: #51b97f6e;
+        border-radius: 10px;
+        border: none;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: none;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        display: none;
+    }
+}
+@media (min-width:300px) and (max-width:416px) {
+
+    .outer-container
+
+    /* Outer Most Container having white image background*/
+        {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .inner-container
+
+    /* Inner Container for Entering SignUp Details */
+        {
+        border-radius: 10%;
+        color: #03C988;
+        position: absolute;
+        border: 8px solid #03C988;
+        border-style: inset;
+        top: 15%;
+        left: 7%;
+        height: 500px;
+        width: 290px;
+        background: #00000059;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+
+    .input
+
+    /*Input area for taking inputs */
+        {
+        color: black;
+        margin: 6px;
+        padding: 3px;
+        height: 1.8rem;
+        width: 15em;
+        background: #51b97f6e;
+        border-radius: 10px;
+        border: none;
+    }
+
+    .description-container-hor
+
+    /*  Horizontal division having rectangular border */
+        {
+        display: none;
+    }
+
+    .description-container-ver
+
+    /* Vertical divison for styling */
+        {
+        display: none;
+    }
+}
