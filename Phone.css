@@ -231,7 +231,7 @@
            display: none;
         }
 }
-@media (min-width:430px) and (max-width:525px) {
+@media (min-width:300px) and (max-width:525px) {
     .inner-container
 
     /* Inner Container for Entering SignUp Details */
